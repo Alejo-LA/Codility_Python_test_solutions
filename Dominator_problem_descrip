@@ -1,0 +1,5 @@
+Given an array A of N integers, 
+a dominator of A is the element that appears more than half of the time. 
+Given an array of integers A, 
+find its dominator and return any index of the dominator
+, or return −1 if no dominator exists.
